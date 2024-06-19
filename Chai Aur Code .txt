@@ -1,0 +1,11 @@
+									Chai Aur Code 
+
+
+									Backend 
+
+
+node js 
+steps for backend 
+	1.npm init 
+	2.express js is a frame work for nodejs : npm i express to install express 
+	3.npm i dotenv = this dependency is used for the production 
