@@ -15,3 +15,5 @@ steps for backend
 github
 	file .gitignore : to ignore the dependencies and the .env files
 		in file .gitignore should be written node_modules , .env 
+
+		Basic server Created And Deployed in render
